@@ -1,0 +1,30 @@
+{
+  "name": "10daysofjavascript",
+  "version": "1.0.0",
+  "description": "A repository with all solutions for the 10 days of javascript hackerrank challenge",
+  "main": "day0/HelloWorld.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Richard Andrey Bringmann",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.3.0",
+    "npm": ">=8.19.1"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/node": "^7.20.7",
+    "@babel/register": "^7.18.9",
+    "@babel/runtime": "^7.20.7",
+    "chai": "^4.3.7",
+    "sinon": "^15.0.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.19.6",
+    "@babel/preset-env": "^7.20.2",
+    "mocha": "^10.2.0"
+  },
+  "type": "module"
+}
