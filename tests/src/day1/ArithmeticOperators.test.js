@@ -1,7 +1,5 @@
 import { getArea, getPerimeter } from "../../../src/day1/ArithmeticOperators.js";
 
-let sandbox;
-let consoleLogStub;
 let length = 3;
 let width = 4.5;
 
